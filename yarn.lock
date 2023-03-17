@@ -1850,10 +1850,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-bayathy@^1.0.38:
-  version "1.0.38"
-  resolved "https://registry.yarnpkg.com/eslint-config-bayathy/-/eslint-config-bayathy-1.0.38.tgz#3bd4c3e2556c7d2dcce7bd7aa824f8f8b6c7f644"
-  integrity sha512-osFNOCjahU+qi9HBPDYl43pjhrR42go5SHB2o9B/tf0CMJCp7MQC14TlPpAuHLvwmx14OXr/eUQtndQ6PhYgig==
+eslint-config-bayathy@^1.0.39:
+  version "1.0.39"
+  resolved "https://registry.yarnpkg.com/eslint-config-bayathy/-/eslint-config-bayathy-1.0.39.tgz#1d2b21f476c9948faaab140bb3608731e8a4705d"
+  integrity sha512-W7zZGpWpjGlzCcm/kUKabDeYENPZCuEMG/KRuQT36/1s+/tM7f/XsRCu1Pru3U82kLzo3ktSwSCnF6f0iJvIYQ==
   dependencies:
     "@next/eslint-plugin-next" "^13.1.6"
     "@typescript-eslint/eslint-plugin" "^5.48.1"
@@ -1866,7 +1866,7 @@ eslint-config-bayathy@^1.0.38:
     eslint-plugin-react "^7.31.1"
     eslint-plugin-react-hooks "^4.6.0"
     eslint-plugin-sonarjs "^0.18.0"
-    eslint-plugin-unicorn "^45.0.0"
+    eslint-plugin-unicorn "^46.0.0"
     eslint-plugin-unused-imports "^2.0.0"
 
 eslint-config-next@^13.1.6:
@@ -2026,10 +2026,10 @@ eslint-plugin-tailwindcss@^3.10.1:
     fast-glob "^3.2.5"
     postcss "^8.4.4"
 
-eslint-plugin-unicorn@^45.0.0:
-  version "45.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-unicorn/-/eslint-plugin-unicorn-45.0.2.tgz#d6ba704793a6909fe5dfe013900d2b05b715284c"
-  integrity sha512-Y0WUDXRyGDMcKLiwgL3zSMpHrXI00xmdyixEGIg90gHnj0PcHY4moNv3Ppje/kDivdAy5vUeUr7z211ImPv2gw==
+eslint-plugin-unicorn@^46.0.0:
+  version "46.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-unicorn/-/eslint-plugin-unicorn-46.0.0.tgz#b5cdcc9465fd6e46ab7968b87dd4a43adc8d6031"
+  integrity sha512-j07WkC+PFZwk8J33LYp6JMoHa1lXc1u6R45pbSAipjpfpb7KIGr17VE2D685zCxR5VL4cjrl65kTJflziQWMDA==
   dependencies:
     "@babel/helper-validator-identifier" "^7.19.1"
     "@eslint-community/eslint-utils" "^4.1.2"
