@@ -1850,10 +1850,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-bayathy@^1.0.43:
-  version "1.0.43"
-  resolved "https://registry.yarnpkg.com/eslint-config-bayathy/-/eslint-config-bayathy-1.0.43.tgz#a5d70f60f68ab3fd17e9467630df5de248a0d272"
-  integrity sha512-tUsJ0X6I1u1PJopx0bCNqJNVuq1NhZQd3ydT5L0tNoOTOKIcgEvYfqMGZoIy/Wr6oAwYNOEpxh3fUADdbygKBQ==
+eslint-config-bayathy@^1.0.44:
+  version "1.0.44"
+  resolved "https://registry.yarnpkg.com/eslint-config-bayathy/-/eslint-config-bayathy-1.0.44.tgz#5339339b1017a60311eb1074303d593881cc78a5"
+  integrity sha512-bul8bUvVbgZz41RA71vxZ863SGQpifXsWnc2qeHOPL6kwbbuMpl4O+riKSUH77oW+vSlWYAgbedOTUTGY/iCcQ==
   dependencies:
     "@next/eslint-plugin-next" "^13.1.6"
     "@typescript-eslint/eslint-plugin" "^5.48.1"
